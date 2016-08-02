@@ -1,0 +1,14 @@
+layout_spectrum: 0.8708703038282692
+typography_spectrum: 0.8449199066963047
+color:
+  brandStrength: 0.9609007872641087
+  lightness: 0.11022564535960555
+  saturation: 0.42699034069664776
+  rhythmicContrast: 0.6004306948743761
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Prueba
